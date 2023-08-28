@@ -23,3 +23,4 @@ This has multiple benefits: Automated backups and rollbacks; easy to scale; has 
 
 *Redis* is hosted in AWS ElastiCache (EC). 
 This has multiple benefits: easy to scale; has built in logging and maintenance; probably, AWS EC provides better security than we can provide. In future, we can migrate our application from AWS EB to some other service while still preserving the redis services.
+![successful_deployment](https://github.com/sandeep2995/multi-docker/assets/8388528/04779627-0e29-41e0-9e4b-d43f7b821f7f)
